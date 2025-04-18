@@ -4,13 +4,12 @@
 💻 Experiência com desenvolvimento web, testes (PHPUnit, Behat, Cypress), automações com Python e boas práticas em DevOps.  
 🚀 Contribuo para projetos reais usando PHP, Angular, Drupal, Laravel, DDEV, Docker, GitHub Actions e muito mais.
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats & 📊 Linguagens Mais Usadas
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusteugenio&show_icons=true&theme=tokyonight&count_private=true)
+|                |                |
+| -------------- | -------------- |
+| ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusteugenio&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusteugenio&layout=compact&theme=tokyonight) |
 
-## 📊 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusteugenio&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
