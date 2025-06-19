@@ -1,7 +1,7 @@
 ## Olá! Me chamo Gustavo e sou um desenvolvedor web com foco em qualidade, testes e automações 🛠️
 
 🎓 Estudante de Engenharia de Software na UTFPR.  
-💻 Experiência com desenvolvimento web, testes (PHPUnit, Behat, Cypress) e automações com Python.
+💻 Experiência com desenvolvimento web, testes (PHPUnit, Behat, Cypress) e automações com Python.  
 🚀 Contribuo para projetos reais usando PHP, Angular, Drupal, Laravel, DDEV, Docker, GitHub Actions e muito mais.
 
 ## 🚀 GitHub Stats & 📊 Linguagens Mais Usadas
