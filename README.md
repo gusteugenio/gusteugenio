@@ -14,7 +14,7 @@ Trabalho com desenvolvimento de sistemas corporativos, APIs REST, integrações 
 
 |                |                |
 | -------------- | -------------- |
-| ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusteugenio&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusteugenio&layout=compact&theme=tokyonight) |
+| ![Gustavo's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gusteugenio&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gusteugenio&layout=compact&theme=tokyonight) |
 
 ---
 
