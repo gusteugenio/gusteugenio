@@ -10,14 +10,6 @@ Trabalho com desenvolvimento de sistemas corporativos, APIs REST, integrações 
 
 ---
 
-## 🚀 GitHub Stats & 📊 Linguagens Mais Usadas
-
-|                |                |
-| -------------- | -------------- |
-| ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusteugenio&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusteugenio&layout=compact&theme=tokyonight) |
-
----
-
 <div style="display: inline_block">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
